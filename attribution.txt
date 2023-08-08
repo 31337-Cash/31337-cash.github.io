@@ -1,0 +1,30 @@
+Below are the sources of images used and the license of each.
+
+
+ONE
+Front portrait: "Dark Tangent" by Jason Scott, licensed CC BY 2.0 https://www.flickr.com/photos/54568729@N00/7546598054 The image was engraved.
+
+FIVE
+Front portrait: Used with permission.
+Back art: Base image by Nightscream, licensed CC BY 3.0 https://commons.wikimedia.org/wiki/File:UCHSLibrary9.10.09ByLuigiNovi5.jpg The image was added upon using machine learning.
+
+TEN
+Front portrait: Public domain https://commons.wikimedia.org/wiki/File:Aaron_Swartz_Headshot_2007_(uncropped).JPG The file was cropped and edited slightly before engraving.
+Back art: AI generated
+
+TWENTY
+Front portrait: Own work
+Back art: AI generated
+
+FIFTY
+Front portrait: Photo by Dave Bullock / eecue (eecue.com), licensed CC BY 2.0. Sourced from https://commons.wikimedia.org/wiki/File:Dan_Kaminsky.jpg the image was engraved and cropped.
+Back art: Book image sourced from: Alex Proimos, licensed CC BY 2.0. Sourced from https://commons.wikimedia.org/wiki/File:Open_Book_Policy_(5914169915)_(cropped).jpg The image was added to and cropped.
+Back art (excluding the book): AI generated
+
+HUNDRED (Version 1: a.k.a. McAfee)
+Front portrait: Used with permission. Source image: https://flickr.com/photos/23446256@N00/14902350795 The image was cropped and edited slightly (removed microphone) before being engraved.
+Back art: AI generated
+
+HUNDRED (Version 2: a.k.a. Mitnick)
+Front portrait: Photo by Campus Party México, licensed CC BY 2.0. https://www.flickr.com/photos/campuspartymexico/4889638678/
+Back art: AI generated
